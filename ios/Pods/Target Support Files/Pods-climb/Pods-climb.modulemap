@@ -1,0 +1,6 @@
+module Pods_climb {
+  umbrella header "Pods-climb-umbrella.h"
+
+  export *
+  module * { export * }
+}
